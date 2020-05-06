@@ -12,3 +12,8 @@ web-report/
 
 # macOS
 .DS_Store
+
+prac.js
+/node_modules
+prac/
+.expo/
