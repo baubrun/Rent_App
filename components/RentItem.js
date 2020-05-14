@@ -1,8 +1,12 @@
-import React from "react";
+import React, { useState } from "react";
 import { Image, Text, View, StyleSheet } from "react-native";
 import RentSVG from "../assets/forRentCL.svg"
 
 const RentItem = (props) => {
+
+
+
+
   return (
     <View style={styles.imageContainer}>
       <RentSVG 

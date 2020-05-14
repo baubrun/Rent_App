@@ -17,3 +17,5 @@ prac.js
 /node_modules
 prac/
 .expo/
+
+.env

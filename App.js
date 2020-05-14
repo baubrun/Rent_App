@@ -5,6 +5,7 @@ import Home from "./components/Home";
 import About from "./components/About";
 import RentList from "./components/RentList";
 import RentItem from "./components/RentItem";
+import Map from "./components/Map";
 
 const AppNavigator = createStackNavigator();
 
@@ -24,6 +25,7 @@ const App = () => {
         <AppNavigator.Screen name="RentItem" component={RentItem} />
       </AppNavigator.Navigator>
     </NavigationContainer>
+    // <Map />
   );
 };
 

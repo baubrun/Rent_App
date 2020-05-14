@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Saundra Duke",
+    "email": "saundraduke@zolar.com",
+    "phone": "+1 (865) 586-3246",
+    "address": "611 Ditmars Street, Rosburg, Arizona, 1158",
+    "latitude": -26.530480,
+    "longitude": 27.830260
+  },
+  {
+    "name": "Eleanor Hendrix",
+    "email": "eleanorhendrix@zolar.com",
+    "phone": "+1 (876) 424-2966",
+    "address": "951 Rock Street, Charco, Alabama, 6921",
+    "latitude": 43.819340,
+    "longitude": -91.217100
+  },
+  {
+    "name": "Ross Moon",
+    "email": "rossmoon@zolar.com",
+    "phone": "+1 (859) 514-2863",
+    "address": "397 Pierrepont Place, Goochland, Wisconsin, 2593",
+    "latitude": 43.819340,
+    "longitude": -91.217102
+  },
+  {
+    "name": "Lancaster Cruz",
+    "email": "lancastercruz@zolar.com",
+    "phone": "+1 (854) 478-2465",
+    "address": "999 Krier Place, Riverton, Wyoming, 631",
+    "latitude": 43.182950,
+    "longitude": -108.673737
+  }
+
+]
